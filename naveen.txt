@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
 hii my name is naveen
+=======
+hiii this is Naveen Kunar
+welcome to vizag
+>>>>>>> Stashed changes
